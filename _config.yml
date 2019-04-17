@@ -24,7 +24,7 @@ navigation:
 - text: Archives
   url: /tags/
 - text: About
-  url: /about/
+  url: /aboutt/
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
