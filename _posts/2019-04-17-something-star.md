@@ -3,6 +3,8 @@ layout: page
 title: 简言
 description: 这是一个冗长、痛苦、迷惘的过程，且行且珍惜。
 banner_image: /assets/images/aboutPage.jpg
+tags: [start]
+date:   2019-04-17
 ---
 
 **Jirk**是我随便想到的名字，不属于英文，也没有实际含义。 
