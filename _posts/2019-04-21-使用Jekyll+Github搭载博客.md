@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 使用Jekyll和Github搭载博客
-banner_image: /assets/images/aboutPage.jpg
+banner_image: /assets/images/2.jpg
 tags: [Blog]
 date:   2019-04-21
 ---
